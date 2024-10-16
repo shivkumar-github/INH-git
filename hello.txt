@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welocme to the git workshop by coc. yayy
+=======
+hey there i am using vscode
+>>>>>>> ed4201d06131c6b1af377cdd61c04d109305df78
